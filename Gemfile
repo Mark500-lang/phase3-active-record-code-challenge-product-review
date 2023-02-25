@@ -17,5 +17,8 @@ gem 'require_all'
 
 # Run common tasks from the command line
 group :development do
+    # Used to generate seed data
+    gem "faker", "~> 2.18"
+
     gem "pry"
 end
