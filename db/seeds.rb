@@ -5,8 +5,8 @@ puts "🌱 Seeding data..."
     review = Review.create(
       star_rating: rand(1..10),
       comment: Faker::Lorem.sentence,
-      product_id: rand(1..10),
-      user_id:  rand(1..10)
+      product_id: rand(1..20),
+      user_id:  rand(1..20)
     )
 
 end
