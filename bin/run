@@ -3,4 +3,9 @@ require 'pry'
 require_relative '../config/environment'
 
 #product=Product.create(name: "Blow Dryer")
+#user1 = User.create(name: "Felix Johnson")
+#user2 = User.create(name: "Reese Wayne")
+#user3 = User.create(name: "Clark Tent")
+#user4 = User.create(name: "Babra Gordon")
+#user5 = User.create(name: "Mick Steel")
 binding.pry
