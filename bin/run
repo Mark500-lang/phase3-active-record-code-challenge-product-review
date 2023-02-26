@@ -2,4 +2,5 @@
 require 'pry'
 require_relative '../config/environment'
 
+#product=Product.create(name: "Blow Dryer")
 binding.pry
