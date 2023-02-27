@@ -14,19 +14,19 @@ A ruby application modelling an e-commerce domain with User, Product and Review 
 -On the terminal run 'ruby bin/run' to start a pry session
 
 ## Database Structure
-# Users Table
+### Users Table
 | column  | Type     |
 | ------- | -------  |
 | id      | integer  |
 | name    | string   |
 
-# Products Table 
+### Products Table 
 | column  | Type     |
 | ------- | -------  |
 | id      | integer  |
 | name    | string   |
 
-# Reviews Table
+### Reviews Table
 | column      | Type    |
 | ----------- | ------- |
 | id          | integer |
